@@ -1,2 +1,2 @@
-# data-demos
-Demos and templates for data analysis
+# Data Science Projects
+Data science projects and demos.
